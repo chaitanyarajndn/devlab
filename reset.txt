@@ -21,4 +21,4 @@ git reset --hard <commit-hash>
 The git revert command creates a new commit that undoes the changes from a specified commit. This is useful for undoing changes without rewriting history.
 
 # Revert the specified commit
-git revert <commit-hash>
+git revert <commit-hash>hey hi how are you
