@@ -22,3 +22,5 @@ The git revert command creates a new commit that undoes the changes from a speci
 
 # Revert the specified commit
 git revert <commit-hash>hey hi how are you
+
+ this update is done by dev branch to check 
